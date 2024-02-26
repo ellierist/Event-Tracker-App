@@ -1,6 +1,6 @@
 # Event-Tracker-App
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
-The goal of this event tracker app was to provide users with a platform to organize and have all their events all in one place. The requirements included a login method, a registration method, a page where the user can see their events, add new events, delete events or edit events. 
+The goal of this event tracker app was to provide users with a platform to organize and have all their events all in one place. The requirements included a login method, a registration method, a page where the user can see their events, add new events, delete events or edit events and a SMS notification system for when an event is occuring soon. 
 
 What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 
