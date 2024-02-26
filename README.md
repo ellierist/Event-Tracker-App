@@ -15,4 +15,4 @@ Considering the full app design and development process, from initial planning t
 From the whole process starting with design to development, the backend coding was the most difficult and challenging for me. I designed how the program should function and at times it did not work, which meant I had to do more research on different methods until I found something that worked as it should. 
 
 In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
-
+The component I believe was the most successful in demonstrating my knowledge and skills is the login/ registration screens and the corresponding database. Ensuring that the users email and password are valid and all field are filled out when logging in was very successful. The registration screen was successful as it added new users to the database, checked if the user is already registered, if they did not fill out the required fields, and that the password confirmation matched the initial password were all successful components.
