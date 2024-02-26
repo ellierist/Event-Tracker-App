@@ -3,7 +3,7 @@ Briefly summarize the requirements and goals of the app you developed. What user
 The goal of this event tracker app was to provide users with a platform to organize and have all their events all in one place. The requirements included a login method, a registration method, a page where the user can see their events, add new events, delete events or edit events and a SMS notification system for when an event is occuring soon. 
 
 What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
-The screens necessary to support user needs and produce a user-centered UI for the app were a login screen, registration screen, add events screen, edit or delete events screen and view all events screen (main page). 
+The screens necessary to support user needs and produce a user-centered UI for the app were a login screen, registration screen, add events screen, edit or delete events screen and view all events screen. The features needed to support user needs included 
 
 How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
 
